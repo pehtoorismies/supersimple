@@ -1,0 +1,7 @@
+mock-data/
+node_modules/
+*.log
+*.pem
+**/id_rsa
+.env
+.DS_Store
